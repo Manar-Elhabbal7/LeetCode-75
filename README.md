@@ -40,7 +40,7 @@ Here are some useful platforms that can support your learning:
 
 ## Note :
  * I will add soon 150 top interview and top 100 loved question so stay tuned :)
- * don't forget to start the repo it will help others to see it 
+ * don't forget to star the repo it will help others to see it 
 
 ## Reminder
 
